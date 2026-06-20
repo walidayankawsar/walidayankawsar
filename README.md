@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [walidayankawsar.com](walidayankawsar.com)
 
-- 💬 Ask me about **Python, Django**
+- 📫 Reach me **walidayankawsar@gmail.com**
 
-- 📫 How to reach me **walidayankawsar@gmail.com**
-
-- ⚡ Fun fact **To understand recursion, you first need to understand recursion.**
+- ⚡ **Love is real, unless declared an integer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
